@@ -1,7 +1,8 @@
 ## Olá! Eu sou a Bruna Rossato 👋
-![LinkedIn(https://www.linkedin.com/in/bruna-r-rossato)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![X (https://x.com/codebrubi)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
- ![Goodreads (https://www.goodreads.com/user/show/85620328-bruna-rossato)](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)
-![Spotify(https://open.spotify.com/user/31vcoeqagrrdfusvpct63mlvgnfm?si=b8786f00820c4624)](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) 
+![[LinkedIn](https://www.linkedin.com/in/bruna-r-rossato)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![[X](https://x.com/codebrubi)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
+![[Goodreads](https://www.goodreads.com/user/show/85620328-bruna-rossato)](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)
+![[Spotify](https://open.spotify.com/user/31vcoeqagrrdfusvpct63mlvgnfm?si=b8786f00820c4624)](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) 
 ### Sobre mim
 
 📖 Estudante de Análise e Desenvolvimento de Sistemas pela Estácio de Sá 
