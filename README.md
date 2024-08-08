@@ -45,5 +45,7 @@
 
 📊 Introdução ao Microsoft Power BI | Fundação Bradesco
 
-
-
+## #30NitesOfCode:
+Meu pet do Codedex do desafio 30 Nites Of Code com Python: 
+  ![@brurossato #30NitesOfCode](https://www.codedex.io/api/petStatus?user=brurossato)
+  [Veja meu progresso!](https://www.codedex.io/@brurossato/30-nites-of-code) 
