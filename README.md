@@ -11,8 +11,6 @@
 
 ✨ 7 Anos de carreira no marketing digital
 
-🧩 Autista
-
 📚 Entusiasta de literatura e escritora publicada
 
 🎶 Faço playlists para ouvir codando e em outros momentos
