@@ -9,8 +9,6 @@
 
 🐍 Aprofundando os estudos em Python e Java
 
-✨ 7 Anos de carreira no marketing digital
-
 📚 Entusiasta de literatura e escritora publicada
 
 🎶 Faço playlists para ouvir codando e em outros momentos
